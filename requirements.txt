@@ -1,0 +1,21 @@
+- Requerimientos NO Funcionales
+  - App Web
+  - Responsividad
+  - Facil de entender
+  - TypeScript
+  - Librerias y Frameworks basados en TypeScript
+  - Tailwind
+  - Componentes basados en Tailwind
+  - Seguridad
+
+- Requerimientos Funcionales
+  - Recibir pagos
+  - Autenticar usuarios
+  - Paciente pueda comunicarse con el medico
+  - Medico puede enviar resultados al Paciente
+    - el paciente puede compartirlo con otro medico
+  - controlar citas
+  - solicitar citas
+
+- Importante
+  - Seguridad: va a haber mucha informacion sensible de los usuarios
